@@ -16,3 +16,8 @@ A list/framework of OSINT tools
 |**Serial Number**| Air Fleets | Find Plane Information | 😍 | 😍 | ❓ | | https://www.airfleets.net/home/
 | | FAA Aircraft Inquiry | Find Plane & Owner Information | 😍 | 😍 | 😍 | No Flight Logs |https://registry.faa.gov/aircraftinquiry/search/nnumberinquiry |
 | **Incident Year** | Aviation Saftey Network | Find Aviation Safety Incident Information For Planes, Drones, Spacecrafts,etc.| 😍 |😍 | 😍 | Manual Search | https://aviation-safety.net/ |
+## People
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Username**|Whats My Name|Find Accounts Associated With A Username | 😍 | 😍 | 😍 | |https://whatsmyname.app/ |
+|**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/
