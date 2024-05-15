@@ -20,4 +20,6 @@ A list/framework of OSINT tools
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Username**|Whats My Name|Find Accounts Associated With A Username | 😍 | 😍 | 😍 | |https://whatsmyname.app/ |
-|**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/
+|**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
+|**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | ❓ | | https://www.fastpeoplesearch.com/ |
+ 
