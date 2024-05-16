@@ -29,11 +29,14 @@ My list/framework of OSINT tools.
 | | Tinder Username Check | Find Out If A Tinder Account Exists Under That Username | 😍 | 😍 | 😍 | | https://www.gotinder.com/@%3Cusername%3E
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
 | | Amazon Username Search | Google Dork TO Find Associated Amazon Content Based On Username | 😍 | 😍 | 😍 | Just A Dork | https://www.google.com/search?q=site:amazon.com+%3Cusername%3E |
+| | Intelligence X | Leak And Data Collection Site | 😐 | 😐 | 😢 | Only 3 Searches Per Day And Lots Of Data Is Locked Behind A Paywall | https://intelx.io/ |
 |**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
 | | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
+| | Intelligence X | Leak And Data Collection Site | 😐 | 😐 | 😢 | Only 3 Searches Per Day And Lots Of Data Is Locked Behind A Paywall | https://intelx.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 | | 800 Notes | Crowd Sourced Reverse Phone Lookup | 😍 | 😍 | 😍 | Focused On 800 Numbers And Scam Calls. Could Have Bad Data | https://800notes.com/ |
+| | Intelligence X | Leak And Data Collection Site | 😐 | 😐 | 😢 | Only 3 Searches Per Day And Lots Of Data Is Locked Behind A Paywall | https://intelx.io/ |
 |**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 | | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/ |
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
@@ -48,6 +51,7 @@ My list/framework of OSINT tools.
 |---|---|---|---|---|---|--|---|
 |**Domain**| Skymem |Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
 | | email-format | Find Email Formats Based On Domain | 🙂 | 🙂 | ❓ | Have To Pay For Full Domain Access | https://www.email-format.com/ |
+| | Intelligence X | Leak And Data Collection Site | 😐 | 😐 | 😢 | Only 3 Searches Per Day And Lots Of Data Is Locked Behind A Paywall | https://intelx.io/ |
 ## Research
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
