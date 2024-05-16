@@ -16,10 +16,15 @@ A list/framework of OSINT tools
 |**Serial Number**| Air Fleets | Find Plane Information | 😍 | 😍 | ❓ | | https://www.airfleets.net/home/
 | | FAA Aircraft Inquiry | Find Plane & Owner Information | 😍 | 😍 | 😍 | No Flight Logs |https://registry.faa.gov/aircraftinquiry/search/nnumberinquiry |
 | **Incident Year** | Aviation Saftey Network | Find Aviation Safety Incident Information For Planes, Drones, Spacecrafts,etc.| 😍 |😍 | 😍 | Manual Search | https://aviation-safety.net/ |
-## People
+## People 🧔
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Username**|Whats My Name|Find Accounts Associated With A Username | 😍 | 😍 | 😍 | |https://whatsmyname.app/ |
 |**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
-|**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | | https://www.fastpeoplesearch.com/ |
- 
+|**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
+|**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
+## Location 🗺️
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Address**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
+|**General Region** | World Wide OSINT Tools Map | Title Pretty Much Sums It Up | 😍 | 😍 | 😍 | | https://cybdetective.com/osintmap/ |
