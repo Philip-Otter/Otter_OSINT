@@ -21,6 +21,8 @@ A list/framework of OSINT tools
 |---|---|---|---|---|---|--|---|
 |**Username**|Whats My Name|Find Accounts Associated With A Username | 😍 | 😍 | 😍 | |https://whatsmyname.app/ |
 | | Name Check| Find Domains With That Username & Find Possible Social Media Accounts With An Associated Username | 😍 | 😍 | ❓ | I'm Not A Huge Fan Of This Site. I Think There Are Better Sites That Do More | https://namechk.com/ |
+| | Sherlock | Python Tool To Find Sites With An Associated Username | 😍 | 😍 | 😍 | Installed Tool | https://github.com/sherlock-project/sherlock |
+| | Blackbird | Python Tool To Find Sites With An Associated Username | 😍 | 😍 | 😍 | Installed Tool | https://github.com/p1ngul1n0/blackbird |
 |**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
 | | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
