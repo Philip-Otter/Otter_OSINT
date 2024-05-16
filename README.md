@@ -35,3 +35,7 @@ A list/framework of OSINT tools
 |---|---|---|---|---|---|--|---|
 |**Address**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 |**General Region** | World Wide OSINT Tools Map | Title Pretty Much Sums It Up | 😍 | 😍 | 😍 | | https://cybdetective.com/osintmap/ |
+## Organizations
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Domain**| Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
