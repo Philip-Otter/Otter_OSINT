@@ -23,6 +23,9 @@ A list/framework of OSINT tools
 | | Name Check| Find Domains With That Username & Find Possible Social Media Accounts With An Associated Username | 😍 | 😍 | ❓ | I'm Not A Huge Fan Of This Site. I Think There Are Better Sites That Do More | https://namechk.com/ |
 | | Sherlock | Python Tool To Find Sites With An Associated Username | 😍 | 😍 | 😍 | Installed Tool | https://github.com/sherlock-project/sherlock |
 | | Blackbird | Python Tool To Find Sites With An Associated Username | 😍 | 😍 | 😍 | Installed Tool | https://github.com/p1ngul1n0/blackbird |
+| | Instant Username Search | Find Out If A Username Has Been Taking On A Site | 😍 | 😍 |😍 | Accuracy Is So-So | https://instantusername.com/?q=miadevon275 |
+| | Tinder Username Check | Find Out If A Tinder Account Exists Under That Username | 😍 | 😍 | 😍 | | https://www.gotinder.com/@%3Cusername%3E
+| | Amazon Username Search | Google Dork TO Find Associated Amazon Content Based On Username | 😍 | 😍 | 😍 | Just A Dork | https://www.google.com/search?q=site:amazon.com+%3Cusername%3E |
 |**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
 | | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
