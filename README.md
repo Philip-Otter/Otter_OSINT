@@ -1,5 +1,5 @@
 # Otter_OSINT
-A list/framework of OSINT tools
+My list/framework of OSINT tools.
 <br>
 ## Vehicles
 ### Road 🚙
@@ -30,6 +30,7 @@ A list/framework of OSINT tools
 | | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 |**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
+| | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/
 ## Location 🗺️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
@@ -38,4 +39,6 @@ A list/framework of OSINT tools
 ## Organizations
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
-|**Domain**| Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | | https://www.skymem.info |
+|**Domain**| Skymem |Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
+| | email-format | Find Email Formats Based On Domain | 🙂 | 🙂 | :question | Have To Pay For Full Domain Access | https://www.email-format.com/ |
+https://www.email-format.com/
