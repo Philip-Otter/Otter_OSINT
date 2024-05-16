@@ -7,6 +7,8 @@ My list/framework of OSINT tools.
 |---|---|---|---|---|---|--|---|
 |**License Plate**|License Plate Mania | Plate Images From Around The World| 😍 | 😍 | 😍| Manual Search | https://licenseplatemania.com/ |https://licenseplatemania.com/https://licenseplatemania.com/|
 | | FaxVIN | Find Vehicle Information & Records Based On Plate Number (US) | 🙂 | 😍 | ❓ | Full reports cost money | https://www.faxvin.com/license-plate-lookup |
+| | Vehicle History | Find Vehicle Information & Records Based On Plate Number (US) |🙂 | 😍 | ❓ | Hit Or Miss Accuracy | https://www.vehiclehistory.com/license-plate-search |
+| | Find By Plate | Find Vehicle Information & Records Based On Plate Number (US) | 🙂 | 😍 | ❓ | | https://findbyplate.com/ |
 |**Image**| Carnet AI | Find Vehicle Make And Model From An Uploaded Image | 😍 | 😍 | ❓ | | https://carnet.ai |
 ### Air ✈️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
