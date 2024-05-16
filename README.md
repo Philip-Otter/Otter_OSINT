@@ -20,7 +20,9 @@ A list/framework of OSINT tools
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Username**|Whats My Name|Find Accounts Associated With A Username | 😍 | 😍 | 😍 | |https://whatsmyname.app/ |
+| | Name Check| Find Domains With That Username & Find Possible Social Media Accounts With An Associated Username | 😍 | 😍 | ❓ | I'm Not A Huge Fan Of This Site. I Think There Are Better Sites That Do More | https://namechk.com/ |
 |**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
+| | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 |**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 ## Location 🗺️
