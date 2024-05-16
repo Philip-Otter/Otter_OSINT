@@ -38,4 +38,4 @@ A list/framework of OSINT tools
 ## Organizations
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
-|**Domain**| Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
+|**Domain**| Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | | https://www.skymem.info |
