@@ -1,4 +1,4 @@
-# Otter_OSINT
+87# Otter_OSINT
 My list/framework of OSINT tools.
 <br>
 ## Vehicles
@@ -27,12 +27,16 @@ My list/framework of OSINT tools.
 | | Blackbird | Python Tool To Find Sites With An Associated Username | 😍 | 😍 | 😍 | Installed Tool | https://github.com/p1ngul1n0/blackbird |
 | | Instant Username Search | Find Out If A Username Has Been Taking On A Site | 😍 | 😍 |😍 | Accuracy Is So-So | https://instantusername.com/?q=miadevon275 |
 | | Tinder Username Check | Find Out If A Tinder Account Exists Under That Username | 😍 | 😍 | 😍 | | https://www.gotinder.com/@%3Cusername%3E
+| |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
 | | Amazon Username Search | Google Dork TO Find Associated Amazon Content Based On Username | 😍 | 😍 | 😍 | Just A Dork | https://www.google.com/search?q=site:amazon.com+%3Cusername%3E |
 |**Email**| Have I Been Pwned| Find Out If An Email Has Been Associated With A Data Breach | 😍 |😍| 😍 | | https://haveibeenpwned.com/ |
+| |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
 | | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 |**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
-| | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/
+| | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/ |
+| |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
+|**SSN**| Social Security Place Of Issue Lookup | Find The Place A SSN Was Issued | 😍 | 😍 | 😍 | |https://ics.uci.edu/~dan/genealogy/Miller/javascrp/ssn.htm  |
 ## Location 🗺️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
