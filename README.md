@@ -33,6 +33,7 @@ My list/framework of OSINT tools.
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
 | | Simple Email Reputation | Find Out How Reputable An Email Address Is | 😍 | 😍 | ❓ | | https://emailrep.io/ |
 |**Phone**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
+| | 800 Notes | Crowd Sourced Reverse Phone Lookup | 😍 | 😍 | 😍 | Focused On 800 Numbers And Scam Calls. Could Have Bad Data | https://800notes.com/ |
 |**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 | | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/ |
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
@@ -52,5 +53,7 @@ My list/framework of OSINT tools.
 |---|---|---|---|---|---|--|---|
 |**Government**| FBI Records Vault | Archived FOI Documents | 😍 | 😍 | 😍 | | https://vault.fbi.gov/ |
 | | CIA Reading Room | Archived FOIA Documents | 😍 | 😍 | 😍 | | https://www.cia.gov/readingroom/ |
+| | DEA Drug Images | Images Of Drugs | 😍 | 😍 | 😍 | | https://www.dea.gov/media-gallery/drug-images
 | | US Department Of State FOIA | FOIA Documents | 😍 | 😍 | 😍 | | https://foia.state.gov/ |
 |**Leak Data**| CryptoMe | Leaked Or Restriced Documents | 😐 | 😍 | 😍 | Archived Data Requires A Donation | https://cryptome.org/ |
+|**Substances**| DEA Drug Images | Images Of Drugs | 😍 | 😍 | 😍 | | https://www.dea.gov/media-gallery/drug-images
