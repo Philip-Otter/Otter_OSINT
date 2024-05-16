@@ -40,5 +40,4 @@ My list/framework of OSINT tools.
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Domain**| Skymem |Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
-| | email-format | Find Email Formats Based On Domain | 🙂 | 🙂 | :question | Have To Pay For Full Domain Access | https://www.email-format.com/ |
-https://www.email-format.com/
+| | email-format | Find Email Formats Based On Domain | 🙂 | 🙂 | ❓ | Have To Pay For Full Domain Access | https://www.email-format.com/ |
