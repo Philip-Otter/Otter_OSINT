@@ -47,3 +47,10 @@ My list/framework of OSINT tools.
 |---|---|---|---|---|---|--|---|
 |**Domain**| Skymem |Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
 | | email-format | Find Email Formats Based On Domain | 🙂 | 🙂 | ❓ | Have To Pay For Full Domain Access | https://www.email-format.com/ |
+## Research
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Government**| FBI Records Vault | Archived FOI Documents | 😍 | 😍 | 😍 | | https://vault.fbi.gov/ |
+| | CIA Reading Room | Archived FOIA Documents | 😍 | 😍 | 😍 | | https://www.cia.gov/readingroom/ |
+| | US Department Of State FOIA | FOIA Documents | 😍 | 😍 | 😍 | | https://foia.state.gov/ |
+|**Leak Data**| CryptoMe | Leaked Or Restriced Documents | 😐 | 😍 | 😍 | Archived Data Requires A Donation | https://cryptome.org/ |
