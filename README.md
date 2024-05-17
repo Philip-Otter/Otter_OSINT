@@ -41,6 +41,9 @@ My list/framework of OSINT tools.
 |**Name**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 | | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/ |
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
+| | Mugshots | Online Database Of Mugshots | 😍 | 😍 |❓ | I Have Had Some Browser Wonkiness | https://mugshots.com/ |
+| | National Sex Offender Public Website | Government Database Of Sex Offenders | 😍 | 😍 |😍 | | https://www.nsopw.gov/ |
+| | Family Watchdog | Sex Offender Search With Interactive Map | 😍 | 😍 | ❓ | | https://www.familywatchdog.us/ |
 |**SSN**| Social Security Place Of Issue Lookup | Find The Place A SSN Was Issued | 😍 | 😍 | 😍 | |https://ics.uci.edu/~dan/genealogy/Miller/javascrp/ssn.htm  |
 |**Photo**| Face Similarity Test Online | Compare Two Photos Of A Face And AI Will Determine If They Are The Same Person | 😍 | 😍 | 😍  | Not Sure How Much I Trust This One | https://facecomparison.toolpie.com/ |
 |**Tattoos**| CBSA Tattoo Handbook | List Of Tattoos And Their Affiliations | 😍 | 😍 |😍 | | https://info.publicintelligence.net/CBSA-TattooHandbook.pdf |
@@ -49,6 +52,7 @@ My list/framework of OSINT tools.
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Address**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
+| | Family Watchdog | Sex Offender Search With Interactive Map | 😍 | 😍 | ❓ | | https://www.familywatchdog.us/ |
 |**General Region** | World Wide OSINT Tools Map | Title Pretty Much Sums It Up | 😍 | 😍 | 😍 | | https://cybdetective.com/osintmap/ |
 ## Organizations
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
