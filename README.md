@@ -1,5 +1,5 @@
-87# Otter_OSINT
-My list/framework of OSINT tools.
+# My OSINT FRAMEWORK
+Have Fun. Be Safe.
 <br>
 ## Vehicles
 ### Road 🚙
