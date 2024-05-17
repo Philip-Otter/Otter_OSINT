@@ -10,6 +10,7 @@ My list/framework of OSINT tools.
 | | Vehicle History | Find Vehicle Information & Records Based On Plate Number (US) |🙂 | 😍 | ❓ | Hit Or Miss Accuracy | https://www.vehiclehistory.com/license-plate-search |
 | | Find By Plate | Find Vehicle Information & Records Based On Plate Number (US) | 🙂 | 😍 | ❓ | | https://findbyplate.com/ |
 |**Image**| Carnet AI | Find Vehicle Make And Model From An Uploaded Image | 😍 | 😍 | ❓ | | https://carnet.ai |
+| | Vehilce Recognition | Find Vehicle Make And Model From An Uploaded Image | 😍 | 😍 | 😍 | | https://carmodel.toolpie.com/
 ### Air ✈️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
@@ -41,6 +42,9 @@ My list/framework of OSINT tools.
 | | Email Permutator | Generate Possible Email Address Based On Name And Domains | 😍 | 😍 | 😍 | Need To Know The Domain | http://metricsparrow.com/toolkit/email-permutator/ |
 | |Scam Digger | Crowd Sourced Database Of Scam Profiles | 😍 | 😍 | 😍 | Can Have False Positives Or Bad Info | https://scamdigger.com/ |
 |**SSN**| Social Security Place Of Issue Lookup | Find The Place A SSN Was Issued | 😍 | 😍 | 😍 | |https://ics.uci.edu/~dan/genealogy/Miller/javascrp/ssn.htm  |
+|**Photo**| Face Similarity Test Online | Compare Two Photos Of A Face And AI Will Determine If They Are The Same Person | 😍 | 😍 | 😍  | Not Sure How Much I Trust This One | https://facecomparison.toolpie.com/ |
+|**Tattoos**| CBSA Tattoo Handbook | List Of Tattoos And Their Affiliations | 😍 | 😍 |😍 | | https://info.publicintelligence.net/CBSA-TattooHandbook.pdf |
+| | ADL - Hate Symbol Database | List Of Hate Symbols And Their Meanings | 😍 | 😍 |😍 | | https://www.adl.org/resources/hate-symbols/search?keys= |
 ## Location 🗺️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
@@ -61,3 +65,4 @@ My list/framework of OSINT tools.
 | | US Department Of State FOIA | FOIA Documents | 😍 | 😍 | 😍 | | https://foia.state.gov/ |
 |**Leak Data**| CryptoMe | Leaked Or Restriced Documents | 😐 | 😍 | 😍 | Archived Data Requires A Donation | https://cryptome.org/ |
 |**Substances**| DEA Drug Images | Images Of Drugs | 😍 | 😍 | 😍 | | https://www.dea.gov/media-gallery/drug-images
+|**General**| Public Intelligence | Collection Of Various Documents And Articles | 😍 | 😍 |😍 | | https://publicintelligence.net/about/ |
