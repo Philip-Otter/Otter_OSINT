@@ -70,3 +70,4 @@ Have Fun. Be Safe.
 |**Leak Data**| CryptoMe | Leaked Or Restriced Documents | 😐 | 😍 | 😍 | Archived Data Requires A Donation | https://cryptome.org/ |
 |**Substances**| DEA Drug Images | Images Of Drugs | 😍 | 😍 | 😍 | | https://www.dea.gov/media-gallery/drug-images
 |**General**| Public Intelligence | Collection Of Various Documents And Articles | 😍 | 😍 |😍 | | https://publicintelligence.net/about/ |
+| | Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/
