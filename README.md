@@ -64,6 +64,7 @@ Have Fun. Be Safe.
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Open Directory**| PODs | Load Contents Of An Open Directory Into A Local HTML File To Allow Easy Browsing Of Data | 😍 |😍 |😍 | Local Program And Will Trigger All Download Links From An Open Directory | https://github.com/Philip-Otter/PODs
+|**General Search**| Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/
 ## Research 📖
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
