@@ -54,13 +54,17 @@ Have Fun. Be Safe.
 |**Address**| Fast People Search | Info Dump Past Address, Phone Numbers, Relatives, etc. | 😍 | 😍 | 😍 | Some Malicious Add Services | https://www.fastpeoplesearch.com/ |
 | | Family Watchdog | Sex Offender Search With Interactive Map | 😍 | 😍 | ❓ | | https://www.familywatchdog.us/ |
 |**General Region** | World Wide OSINT Tools Map | Title Pretty Much Sums It Up | 😍 | 😍 | 😍 | | https://cybdetective.com/osintmap/ |
-## Organizations
+## Organizations 🕴️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Domain**| Skymem |Find Emails Associated With A Domain | 😐 | 🙂 | ❓ | Have To Pay For Full Email Lists | https://www.skymem.info |
 | | email-format | Find Email Formats Based On Domain | 🙂 | 🙂 | ❓ | Have To Pay For Full Domain Access | https://www.email-format.com/ |
 | | Intelligence X | Leak And Data Collection Site | 😐 | 😐 | 😢 | Only 3 Searches Per Day And Lots Of Data Is Locked Behind A Paywall | https://intelx.io/ |
-## Research
+## The Internet 🕸️
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Open Directory**| PODs | Load Contents Of An Open Directory Into A Local HTML File To Allow Easy Browsing Of Data | 😍 |😍 |😍 | Local Program And Will Trigger All Download Links From An Open Directory | https://github.com/Philip-Otter/PODs
+## Research 📖
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
 |**Government**| FBI Records Vault | Archived FOI Documents | 😍 | 😍 | 😍 | | https://vault.fbi.gov/ |
