@@ -65,6 +65,8 @@ Have Fun. Be Safe.
 |---|---|---|---|---|---|--|---|
 |**Open Directory**| PODs | Load Contents Of An Open Directory Into A Local HTML File To Allow Easy Browsing Of Data | 😍 |😍 |😍 | Local Program And Will Trigger All Download Links From An Open Directory | https://github.com/Philip-Otter/PODs
 |**General Search**| Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/
+| | Shodan | Internet Search Engine | 🙂 | 😭 | 😢 | Account Required For Searches |https://www.shodan.io/
+| | Censys | Internet Search Engine | 🙂 | 🙂 | 😢 | Limited To 10 Searches A Day (By IP) Without An Account | http://search.censys.io
 ## Research 📖
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
@@ -75,4 +77,4 @@ Have Fun. Be Safe.
 |**Leak Data**| CryptoMe | Leaked Or Restriced Documents | 😐 | 😍 | 😍 | Archived Data Requires A Donation | https://cryptome.org/ |
 |**Substances**| DEA Drug Images | Images Of Drugs | 😍 | 😍 | 😍 | | https://www.dea.gov/media-gallery/drug-images
 |**General**| Public Intelligence | Collection Of Various Documents And Articles | 😍 | 😍 |😍 | | https://publicintelligence.net/about/ |
-| | Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/
+| | Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/ |
