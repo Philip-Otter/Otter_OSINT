@@ -72,6 +72,11 @@ Have Fun. Be Safe.
 |**General Search**| Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/
 | | Shodan | Internet Search Engine | 🙂 | 😭 | 😢 | Account Required For Searches |https://www.shodan.io/
 | | Censys | Internet Search Engine | 🙂 | 🙂 | 😢 | Limited To 10 Searches A Day (By IP) Without An Account | http://search.censys.io
+## Digital Data
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Hashes**| Crack Station | Find Passwords From Hashes | 😍 | 😍 |😍 | | https://crackstation.net/ |
+| | National Software Rreference Library (NSRL) | Downloadable File Hash Library To Speed Up Data Analysis | 😍 | 😍 |😍 | | https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl
 ## Research 📖
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
