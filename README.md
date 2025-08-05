@@ -68,6 +68,8 @@ Have Fun. Be Safe.
 | | Intelligence X | Leak And Data Collection Site | 😐 | 😐 | 😢 | Only 3 Searches Per Day And Lots Of Data Is Locked Behind A Paywall | https://intelx.io/ |
 | | DNS Dumpster | Site To Bring UP DNS Information Based On Domain | 😍 | 😍 | ❓ | | https://dnsdumpster.com/ |
 | | Dig (Google Admin ToolBox) | Site To Query DNS Records | 😍 | 😍 |😍 | | https://toolbox.googleapps.com/apps/dig/
+| | HIB Ransomed? | Site to Check for Data Points in Ransomware Dumps | 😍 | 😍 | 😍 | | [https://github.com/sherlock-project/sherlock](https://haveibeenransom.com/) |
+| | Breach House | Site to Check for Domains Involved in Data Breaches | 😍 | 😍 | 😍 | | https://breach.house |
 ## The Internet 🕸️
 | Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
 |---|---|---|---|---|---|--|---|
@@ -75,6 +77,7 @@ Have Fun. Be Safe.
 |**Domain**| DNS Dumpster | Site To Bring UP DNS Information Based On Domain | 😍 | 😍 | ❓ | | https://dnsdumpster.com/ |
 | | Dig (Google Admin ToolBox) | Site To Query DNS Records | 😍 | 😍 |😍 | | https://toolbox.googleapps.com/apps/dig/
 | | HIB Ransomed? | Site to Check for Data Points in Ransomware Dumps | 😍 | 😍 | 😍 | | [https://github.com/sherlock-project/sherlock](https://haveibeenransom.com/) |
+| | Breach House | Site to Check for Domains Involved in Data Breaches | 😍 | 😍 | 😍 | | https://breach.house |
 |**SSID/BSSID**| WiGLE | Find SSID Or BSSID Locations Based On War Driving Data | 😢 | 😢 |😢 | Information Could Be Old| https://www.wigle.net/ |
 |**General Search**| Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/
 | | Shodan | Internet Search Engine | 🙂 | 😭 | 😢 | Account Required For Searches |https://www.shodan.io/
