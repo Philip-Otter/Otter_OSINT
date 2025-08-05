@@ -98,3 +98,8 @@ Have Fun. Be Safe.
 |**Substances**| DEA Drug Images | Images Of Drugs | 😍 | 😍 | 😍 | | https://www.dea.gov/media-gallery/drug-images
 |**General**| Public Intelligence | Collection Of Various Documents And Articles | 😍 | 😍 |😍 | | https://publicintelligence.net/about/ |
 | | Internet Archive | Archive Of The Internet | 😍 |😍 | 😍 | | https://archive.org/ |
+## NSFW 🔞
+| Data Type | Site or Tool | Description | Free | No Account Needed | Search Limit| Cons | Link |
+|---|---|---|---|---|---|--|---|
+|**Escorts**| Erotic Monkey | Escort Database with User Reviews | 😁 | 😁 | 😍 | | https://www.eroticmonkey.ch |
+| | RubMaps | Happy Ending Massage Parlor Database with User Reviews | 😁 | 😁 | 😍 | | https://www.rubmaps.ch |
